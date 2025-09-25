@@ -1,0 +1,54 @@
+class AppImage {
+  static const appLogo = './assets/icons/ic_logo.png';
+  static const settingIcon = './assets/icons/ic_settings.png';
+  static const plusIcon = './assets/icons/ic_plus.png';
+  static const searchIcon = './assets/icons/ic_search.png';
+  static const headstarIcon = './assets/icons/ic_headstar.png';
+  static const selectArrowIcon = './assets/icons/ic_selectarrow.png';
+  static const backIcon = './assets/icons/ic_back.png';
+  static const surveyModelIcon = './assets/icons/ic_survey.png';
+  static const crossModelIcon = './assets/icons/ic_cross.png';
+  static const crossIcon = './assets/icons/ic_cross_red.png';
+  static const deactiveradioIcon = './assets/icons/ic_deactive_radio_btn.png';
+  static const activeradioIcon = './assets/icons/ic_active_radio_btn.png';
+  static const googleIcon = './assets/icons/ic_google.png';
+  static const appleIcon = './assets/icons/ic_apple.png';
+  static const aboutUsIcon = './assets/icons/ic_information.png';
+  static const termsConditionIcon = './assets/icons/ic_termsconditions.png';
+  static const privacyPolicy = './assets/icons/ic_privacypolicy.png';
+  static const contactUsIcon = './assets/icons/call-icon.png';
+  static const shareAppIcon = './assets/icons/ic_share.png';
+  static const rateAppIcon = './assets/icons/ic_rateus.png';
+  static const changePasswordIcon = './assets/icons/ic_pass_lock.png';
+  static const logoutIcon = './assets/icons/ic_logouticon.png';
+  static const profileIcon = './assets/icons/ic_profileblackicon.png';
+  static const editIcon = './assets/icons/ic_edit.png';
+  static const mailIcon = './assets/icons/ic_email.png';
+  static const deleteIcon = './assets/icons/ic_delete.png';
+  static const userImage = './assets/icons/ic_userimage.jpg';
+  static const aerrowBackIcon = './assets/icons/ic_back_icon.png';
+  static const cameraIcon = './assets/icons/ic_cameraicon.png';
+  static const cameraGalleryIcon = './assets/icons/ic_cameragallery.png';
+  static const galleryIcon = './assets/icons/ic_gallery.png';
+  static const activeHomeIcon = './assets/icons/ic_active_home.png';
+  static const deactiveProfileIcon = './assets/icons/ic_deactipf.png';
+  static const activeProfileIcon = './assets/icons/ic_profileblackicon.png';
+  static const dactiveHomeIcon = './assets/icons/ic_deactive_home.png';
+  static const activeNotificationIcon =
+      './assets/icons/ic_active_notification.png';
+  static const dactiveNotificationIcon =
+      './assets/icons/ic_deactive_notification.png';
+  static const cableicon = './assets/icons/cable_icon.png';
+  static const syncicon = './assets/icons/icon_syncicon.png';
+  static const mainicon = './assets/icons/icon_drop.png';
+  static const homeicon = './assets/icons/icon_home.png';
+  static const searchicon = './assets/icons/icon-search.png';
+  static const homeicon2 = './assets/icons/icon_homes.png';
+  static const arrowicon2 = './assets/icons/icon_arrow.png';
+  static const iconbutton = './assets/icons/icon-2.png';
+  static const call = './assets/icons/icon_call.png';
+  static const iconpass = './assets/icons/icon_paas.png';
+  static const iconview = './assets/icons/search_icon3.png';
+  static const iconlogout = './assets/icons/icon_logout.png';
+  static const arrow_icon = './assets/icons/arrow_icon.png';
+}
